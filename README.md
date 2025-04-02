@@ -9,13 +9,12 @@ Este projeto é uma aplicação simples para calcular o Índice de Massa Corpora
 - Exibição da classificação baseada no resultado  
 
 ## 🛠️ Tecnologias Utilizadas  
-- [Linguagem utilizada] (Ex: Java, Python, etc.)  
-- [Frameworks ou bibliotecas, se houver]  
+- Java 
 
 ## 📦 Como Executar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/Desafio_IMC_Calculator.git
+   git clone https://github.com/gitomacelli/Desafio_IMC_Calculator.git
    ```
 2. Acesse a pasta do projeto:  
    ```bash
@@ -27,4 +26,4 @@ Este projeto é uma aplicação simples para calcular o Índice de Massa Corpora
 Este projeto está sob a licença MIT.  
 
 ## 📞 Contato  
-Caso tenha dúvidas ou sugestões, entre em contato através do [seu email ou GitHub].  
+Caso tenha dúvidas ou sugestões, entre em contato através do gttomacelli@gmail.com.  
